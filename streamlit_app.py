@@ -179,7 +179,7 @@ with col_left:
     st.markdown("""
     <div class="about-card">
         <center>
-            <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400" class="profile-img" alt="David Julian">
+            <img src="https://sf-static.upanhlaylink.com/img/image_20261022b51e503acaa33b650e5facd207c2adff.jpg?auto=format&fit=crop&q=80&w=400" class="profile-img" alt="David Julian">
             <h3 style="margin-bottom: 4px; font-weight: 700;">David Julian</h3>
             <p style="color: #4A5568; font-size: 0.95rem; margin-bottom: 16px;">Software Engineer & Content Creator</p>
         </center>
